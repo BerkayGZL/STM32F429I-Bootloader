@@ -1,0 +1,13 @@
+bootloader_command_app.c:5:6:bootloader_get_ver_cmd	32	static
+bootloader_command_app.c:32:6:bootloader_get_help_cmd	24	static
+bootloader_command_app.c:60:6:bootloader_go_to_addr_cmd	40	static
+bootloader_command_app.c:110:6:bootloader_flash_erase_cmd	32	static
+bootloader_command_app.c:141:6:bootloader_mem_write_cmd	40	static
+bootloader_command_app.c:194:6:bootloader_uart_write_data	16	static
+bootloader_command_app.c:200:9:bootloader_verify_crc	40	static
+bootloader_command_app.c:225:6:bootloader_send_ack	24	static
+bootloader_command_app.c:235:6:bootloader_send_nack	16	static
+bootloader_command_app.c:241:9:bootloader_get_version	4	static
+bootloader_command_app.c:247:9:bootloader_verify_address	16	static
+bootloader_command_app.c:263:9:execute_flash_erase	48	static
+bootloader_command_app.c:305:9:execute_memory_write	32	static
